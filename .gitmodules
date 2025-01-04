@@ -1,0 +1,3 @@
+[submodule "sourceengine"]
+	path = sourceengine
+	url = git@github.com:HamzaJarane/autofastdl.git
